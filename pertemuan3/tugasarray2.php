@@ -11,7 +11,7 @@ $keys = array_keys($nama);
 echo "Kunci dalam array:<br> ";
 print_r($keys);
 echo "<br>";
-// Mengembalikan semua nilai (umur) dari array
+// Mengembalikan semua nilai dari array
 $values = array_values($nama);
 echo "Nilai dalam array: <br>";
 print_r($values);
